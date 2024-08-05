@@ -4,7 +4,7 @@ USERS:
     banned_uid: 789,100 # 黑名单UID,填了后将不会打卡，点赞，分享 用英文逗号分隔 不填则不限制
     push_name: PUSH_DEER_SAMPLE # 推送服务，留空表示不需要推送
   - access_key:69e304c5a360a3bfc91c1c15ab389482
-    allowed_uid:
+    allowed_uid:419220,13046
     banned_uid:
     push_name:
   # 注意对齐
